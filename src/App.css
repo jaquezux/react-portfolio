@@ -1,3 +1,13 @@
+/* With # */
+/* #424b54, #93a8ac, #f5f5f5, #e2b4bd, #9b6a6c */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Silkscreen&display=swap');
+
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
 .App {
   text-align: center;
 }

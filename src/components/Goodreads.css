@@ -1,0 +1,83 @@
+.gr_challenge_11633 {
+    border: 2px solid #EBE8D5;
+    border-radius:10px;
+    padding: 0px 7px 0px 7px;
+    max-width:230px;
+    min-height: 100px;
+}
+
+.gr_challenge_progress_body_11633 {
+    font-size: 12px;
+    font-family: georgia,serif;line-height: 18px;
+}
+
+.h3-goodreads {
+    margin: 4px 0 10px;
+    font-weight: normal;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h3-goodreads-image {
+    width: 20px;
+    margin: auto;
+}
+
+.a-goodreads {
+    text-decoration: none;
+    font-size: 1.1em;
+    color: #EBE8D5;
+    margin: auto;
+}
+
+.image-goodreads {
+    float:left;
+    width: 40px;
+    margin-right: 10px;
+    border: 0 none;
+}
+
+.div4 {
+    width: 100px;
+    margin: 4px 5px 5px 0;
+    float: left;
+    border: 1px solid #e1d8d1;
+    height: 8px;
+    overflow: hidden;
+    background-color: #FFF;
+}
+
+.div5 {
+    width: 10%;
+    background-color: #D7D2C4;
+    float: left;
+}
+
+.div6 {
+    font-family: arial, verdana, helvetica, sans-serif;
+    font-size:90%;
+    color: #EBE8D5;
+
+}
+
+.div7 {
+    text-align: right;
+    color: #EBE8D5;
+
+}
+
+.a2-goordreads {
+    text-decoration: none;
+    font-size: 10px;
+    color: #EBE8D5;
+}
+
+.a3-goodreads {
+    color: #EBE8D5;
+}
+
+.a4-goodreads {
+    color: #EBE8D5;
+}
