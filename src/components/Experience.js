@@ -18,7 +18,7 @@ function Experience() {
                     <ExperienceCard
                         title="Busines Intelligence Analyst"
                         subtitle="Mirum Agency"
-                        description="Participated of e-commerce projects, mainly in the setup stage of new accounts. My team was responsible for attending a brazilian footwear e-commerce and our duty was to help them make data-based decisions."
+                        description="Worked on e-commerce projects, mainly in the setup stage of new accounts. My team was responsible for attending a brazilian footwear e-commerce and our duty was to help them make data-based decisions."
                     />
                 </div>
 
