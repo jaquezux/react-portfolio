@@ -30,7 +30,7 @@ function Footer() {
               <a href="https://www.goodreads.com/challenges/11633-2023-reading-challenge"><img className="image-goodreads" alt="2023 Reading Challenge" src="https://images.gr-assets.com/challenges/1670887106p2/11633.jpg" /></a>
             </div>
             <div>
-              <a className='a3-goodreads' href="https://www.goodreads.com/user/show/137831775-jaque">jaque has read 3 books toward her goal of 30 books.</a>
+              <a className='a3-goodreads' href="https://www.goodreads.com/user/show/137831775-jaque">jaque has read 5 books toward her goal of 30 books.</a>
             </div>
 
             <div className="div4">
@@ -39,7 +39,7 @@ function Footer() {
               </div>
             </div>
             <div className="div6">
-              <a className='a4-goodreads' href="https://www.goodreads.com/user_challenges/38676051">3 of 30 (10%)</a>
+              <a className='a4-goodreads' href="https://www.goodreads.com/user_challenges/38676051">5 of 30 (17%)</a>
             </div>
           </div>
           <script src="https://www.goodreads.com/user_challenges/widget/137831775-jaque?challenge_id=11633&v=2"></script>
