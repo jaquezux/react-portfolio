@@ -4,6 +4,9 @@ import './Projects.css';
 import Project1 from './assets/project1-pic.jpg';
 import Project2 from './assets/project2-pic.jpg';
 import Project3 from './assets/project3-pic.jpg';
+import Project4 from './assets/project4-pic.jpg';
+import Project5 from './assets/project5-pic.jpg';
+import Project6 from './assets/project6-pic.jpg';
 
 
 
@@ -20,6 +23,36 @@ function Projects() {
 
 
             <div className='projects-container'>
+
+                <div className='projects-card'>
+                        <ProjectsCard
+                            src="https://lookerstudio.google.com/s/sZCVWQ5_tEo"
+                            alt="Traffic Dashboard | Looker Data Viz"
+                            imgsrc={Project6}
+                            title="Traffic Dashboard | Looker Data Viz"
+                            description="Mockup dashboard developed in Looker using data provided by the tool."
+                        />
+                </div>
+
+                <div className='projects-card'>
+                        <ProjectsCard
+                            src="https://public.tableau.com/app/profile/jaqueline.bianco/viz/JaquelinesGoodreadsStats/goodreads-stats-viz"
+                            alt="Goodreads Stats | Tableau Data Viz"
+                            imgsrc={Project5}
+                            title="Goodreads Stats | Tableau Data Viz"
+                            description="Data visualization with my Goodreads stats."
+                        />
+                </div>
+
+                <div className='projects-card'>
+                        <ProjectsCard
+                            src="https://github.com/jaquezux/hellacopters-scraping"
+                            alt="Hellacopters Scraping | Python"
+                            imgsrc={Project4}
+                            title="Hellacopters Scraping | Python"
+                            description="Scraping Hellacopters discography using Python."
+                        />
+                </div>
 
                 <div className='projects-card'>
                     <ProjectsCard

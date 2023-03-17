@@ -14,7 +14,7 @@ function Hero() {
 
                 <div className='hero-text'>
                     <h1>Jaqueline Bianco</h1>
-                    <h2>Digital Strategy | SEO | Data Analytics</h2>
+                    <h2>Data Analytics | SEO | Digital Strategy</h2>
                     <p>Hello there! </p>
 
                     <p>My name is Jaqueline and I'm from Brasil. Currently, I'm living in Helsingborg, in Sweden.</p>
