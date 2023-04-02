@@ -18,7 +18,7 @@ function Projects() {
             <div className='projects-titles-wrapper' id='projects'>
                 <img className='divisor' alt="Cloud gif" src="https://i.pinimg.com/originals/f1/e1/39/f1e13922f700ec3a41e469f7412416ba.gif" />
                 <h2 className='my-projects-wrapper-title'>My personal projects</h2>
-                <a href='https://github.com/jaquezux/'> access Github repositories </a>
+                <a href='https://github.com/jaquezux/' target="_blank" rel="noreferrer"> access Github repositories </a>
             </div>
 
 
