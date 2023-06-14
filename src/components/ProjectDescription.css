@@ -1,0 +1,14 @@
+.ProjectDescriptionWrapper {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    padding-bottom: 50px;
+    color: rgb(128, 135, 135);
+}
+
+
+.ProjectImage {
+    width: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

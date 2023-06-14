@@ -1,5 +1,6 @@
 import React from 'react';
 import './Navbar.css';
+import Butterfly from './assets/butterfly.png';
 
 
 function Navbar() {
@@ -8,14 +9,14 @@ function Navbar() {
             <div className='navbar-container'>
                 <div>
                     <ul className='navbar-list' >
-                        {/* <li className='navbar-item'>
-                            <a className='navbar-link' href='#about' >About me</a>
-                        </li> */}
+                        <li className='navbar-link'>
+                            <a href='/'><img className='navbar-logo' src={Butterfly} alt='butterfly-logo'/ ></a>
+                        </li>
                         <li className='navbar-item'>
                             <a className='navbar-link' href='#experience' >Experience</a>
                         </li>
                         <li className='navbar-item'>
-                            <a className='navbar-link' href='#projects' >Projects</a>
+                            <a className='navbar-link' href='/projects' >Projects</a>
 
                         </li>
                     </ul>

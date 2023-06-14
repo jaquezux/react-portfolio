@@ -14,18 +14,18 @@ function Hero() {
 
                 <div className='hero-text'>
                     <h1>Jaqueline Bianco</h1>
-                    <h2>Data Analytics | SEO | Digital Strategy</h2>
+                    <h2>Strategy & Insights 🎮</h2>
                     <p>Hello there! </p>
 
-                    <p>My name is Jaqueline and I'm from Brasil. Currently, I'm living in Helsingborg, in Sweden.</p>
+                    <p>I'm Jaqueline, passionate about Brand Strategy, Research & Insights.</p>
 
-                    <p>I am graduated in Social Communication and <strong>I work with Digital Strategy</strong>. I have experience with <strong>SEO, Data Analysis and Business Intelligence</strong>.</p>
+                    <p>I am graduated in Social Communication with emphasis on Advertising and I have a strong background in digital marketing, especially in SEO and Business Intelligence.</p>
 
-                    <p>In 2022, I started to study programming logic, and I've made some personal projects using Python, HTML, CSS and ReactJS. This website is a result of my studies. I developed it from scratch, using React. </p>
+                    <p>I challenged myself to develop my portfolio website and here we are! I built this website from scratch, using ReactJS, HTML and CSS.</p>
 
-                    <p><strong><a href='https://www.linkedin.com/in/jaquelinebianco/'>LinkedIn</a> | <a href='https://www.instagram.com/jaquezux/'>Instagram</a> | <a href='mailto:jaquezubieta@gmail.com'>E-mail</a></strong></p>
+                    <p>At the moment, I'm getting specialized in the Gaming Industry. My goal is to use my experience to contribute to this market and help to build a safe space to minority groups. </p>
 
-
+                    <p><strong><a href='https://www.linkedin.com/in/jaquelinebianco/'>LinkedIn</a> | <a href='mailto:jaquezubieta@gmail.com'>E-mail</a> | <a href='https://www.exophase.com/user/jaquezux/'>My Gaming Achievements</a></strong></p>
 
                 </div>
             </div>
