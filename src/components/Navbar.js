@@ -13,7 +13,7 @@ function Navbar() {
                             <a href='/'><img className='navbar-logo' src={Butterfly} alt='butterfly-logo'/ ></a>
                         </li>
                         <li className='navbar-item'>
-                            <a className='navbar-link' href='#experience' >Experience</a>
+                            <a className='navbar-link' href='/experience' >Experience</a>
                         </li>
                         <li className='navbar-item'>
                             <a className='navbar-link' href='/projects' >Projects</a>

@@ -9,14 +9,14 @@ import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 
 function App() {
   return (
-    <Router>
+    <Router basename='/'>
       <Navbar />
-      <Routes>
-        <Route path='/' element={<Home/>} />
-        <Route path='/projects' element={<ProjectsPage/>} />
-        <Route path='/projects/lead-generation' element={<LeadGeneration/>} />
-        <Route path='/projects/internal-search-engine-analysis' element={<InternalSearchEngine/>} />
-      </Routes>
+        <Routes>
+          <Route path='/' element={<Home/>} />
+          <Route path='/projects' element={<ProjectsPage/>} />
+          <Route path='/projects/lead-generation' element={<LeadGeneration/>} />
+          <Route path='/projects/internal-search-engine-analysis' element={<InternalSearchEngine/>} />
+        </Routes>
       <Footer/>
     </Router>
 
