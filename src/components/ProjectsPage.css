@@ -1,3 +1,9 @@
+.project-list-wrapper {
+    margin: auto;
+    width: 90%;
+    margin-bottom: 270px;
+}
+
 .my-projects-wrapper-title {
     margin: auto;
     color: #424b54;
@@ -5,8 +11,3 @@
 }
 
 
-.project-list-wrapper {
-    margin: auto;
-    width: 90%;
-    margin-bottom: 90px;
-}

@@ -1,8 +1,18 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  footer {
+    margin-top: auto;
+  }
+
 .footer-wrapper {
     width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
     background-color: #424b54;
-    padding-top: 30px;
-    padding-bottom: 30px;
 }
 
 .footer-container {
@@ -27,6 +37,10 @@
 
 .footer-text {
     color:aliceblue;
+}
+
+.kaonashi-gif {
+    width: 100px;
 }
 
 @media screen and (max-width: 1023px) {
