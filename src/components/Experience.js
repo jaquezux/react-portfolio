@@ -9,9 +9,9 @@ function Experience() {
             <img className='divisor' alt="Cloud gif" src="https://i.pinimg.com/originals/f1/e1/39/f1e13922f700ec3a41e469f7412416ba.gif"></img>
             <h2 className='my-experience' id='experience'>My experience</h2>
 
-            <p className='skills-introduction'>● 6 years of experience at advertising agencies, working with multidisciplinary teams, attending accounts of different industries.</p>
-            <p className='skills-introduction'><strong>● DATA ANALYSIS:</strong> Responsible for one of the biggest fashion e-commerces in Brazil, called Arezzo, with 3.8 million visits per month.</p>
-            <p className='skills-introduction'><strong>● ORGANIC ACQUISITION:</strong> I have worked with organic strategies for Volvo Trucks, Volvo Parts, Porto Seguro, Losango and O Boticário.</p>
+            <p className='skills-introduction'>● 6 years of experience at advertising agencies, working with multidisciplinary teams, attending accounts from different industries.</p>
+            <p className='skills-introduction'><strong>● DATA ANALYSIS:</strong> At the agency side, I was the Data Analyst for one of the biggest fashion brands in Brazil, called Arezzo. They have 3.8 million visits per month to their e-commerce. My job was to analyze performance, build reports and dashboards, manipulate data using SQL in Big Query, participate in meetings with Marketing Analysts, Managers and Data Engineers on the client side.</p>
+            <p className='skills-introduction'><strong>● PRODUCT ANALYSIS:</strong> I could deliver different types of products such as dashboards and campaign reports. As a product data analyst, I had to define KPIs together with the stakeholders, define the softwares we were going to use, the product layout and translate the final user needs into the product.</p>
 
             <div className='skills-introduction'>
                 <h3>Skills</h3>
