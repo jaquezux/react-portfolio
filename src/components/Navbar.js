@@ -1,6 +1,6 @@
 import React from 'react';
 import './Navbar.css';
-import Butterfly from './assets/butterfly.png';
+import Logo from './assets/jaque-logo.jpg';
 
 
 function Navbar() {
@@ -10,15 +10,14 @@ function Navbar() {
                 <div>
                     <ul className='navbar-list' >
                         <li className='navbar-link'>
-                            <a href='/'><img className='navbar-logo' src={Butterfly} alt='butterfly-logo'/ ></a>
+                            <a href='/'><img className='navbar-logo' src={Logo} alt='butterfly-logo'/ ></a>
                         </li>
-                        <li className='navbar-item'>
+                        {/* <li className='navbar-item'>
                             <a className='navbar-link' href='/?experience' >Experience</a>
-                        </li>
-                        <li className='navbar-item'>
+                        </li> */}
+                        {/* <li className='navbar-item'>
                             <a className='navbar-link' href='/projects' >Projects</a>
-
-                        </li>
+                        </li> */}
                     </ul>
                 </div>
             </div>

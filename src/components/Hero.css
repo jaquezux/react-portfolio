@@ -1,5 +1,5 @@
 .hero {
-    margin-top: 90px;
+    margin-top: 200px;
     margin-bottom: 90px;
 }
 
@@ -8,7 +8,7 @@
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    width: 90%;
+    width: 80%;
     margin: auto;
 }
 

@@ -11,7 +11,7 @@ import CarRental from './components/pages/CarRental';
 function App() {
   return (
     <Router basename='/'>
-      <Navbar />
+      {/* <Navbar /> */}
         <Routes>
           <Route path='/' element={<Home/>} />
           <Route path='/projects' element={<ProjectsPage/>} />

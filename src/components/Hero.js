@@ -1,6 +1,6 @@
 import React from 'react';
 import './Hero.css';
-import MyAvatar from './assets/me.jpg';
+import MyAvatar from './assets/jaqueline-avatar.png';
 
 
 
@@ -14,16 +14,13 @@ function Hero() {
 
                 <div className='hero-text'>
                     <h1>Jaqueline Bianco</h1>
-                    <h2>Data Analysis & Product | Research & Insights</h2>
-                    <p>Hello there! </p>
+                    <h2>Translation & Localization</h2>
 
-                    <p>I'm Jaqueline, passionate about Data Analysis & Product.</p>
+                    <p>I'm passionate about words!</p>
 
-                    <p>I am graduated in Communication with emphasis on Advertising and I have a background working at agencies in the fields of Business Intelligence and Organic Acquisition.</p>
+                    <p>With a degree in Communications, I work with translation and localization of English content to Brazilian Portuguese.</p>
 
-                    <p>I challenged myself to develop my portfolio website and here we are! I built this website from scratch, using ReactJS, HTML and CSS. It was important for me to get familiarized with coding, getting into logic mindset and understanding semantics.</p>
-
-                    <p><strong><a href='https://www.linkedin.com/in/jaquelinebianco/'>LinkedIn</a> | <a href='mailto:jaquezubieta@gmail.com'>E-mail</a></strong></p>
+                    <p>My goal is to make your product accessible for Portuguese speakers, improving user experience, customer engagement and business expansion.</p>
 
                 </div>
             </div>

@@ -6,11 +6,11 @@ function ProjectsPage() {
   return (
     <div className='projects-wrapper-general'>
 
-      <div className='projects-titles-wrapper' id='projects'>
+      {/* <div className='projects-titles-wrapper' id='projects'>
         <h2 className='my-projects-wrapper-title'>Featured Projects</h2>
-      </div>
+      </div> */}
 
-      <div className='projects-container'>
+      {/* <div className='projects-container'>
         <h3>Personal projects that I use to learn Python:</h3>
         <h4><a href='https://www.kaggle.com/code/jaquelinebianco/venda-de-jogos-de-shooter-no-playstation'>📖 Data Analysis | Video Games Sales Exploratory Analysis</a><br /></h4>
         <h4><a href='https://github.com/jaquezux/hellacopters-scraping'>📖 Data Scraping | The Hellacopters Discography</a></h4>
@@ -29,7 +29,7 @@ function ProjectsPage() {
         <h4><a href='/projects/lead-generation'>⌨️ Lead Generation for SUV pre-order</a><br /></h4>
         <h4><a href='/projects/internal-search-engine-analysis'>⌨️ Internal Search Engine Analysis and Insights Delivering</a></h4>
         <h4><a href='/projects/car-rental'>⌨️ Content Strategy: Car Rental in Brazil</a></h4>
-      </div>
+      </div> */}
 
 
     </div>
