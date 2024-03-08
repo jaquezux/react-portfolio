@@ -22,6 +22,8 @@ function Hero() {
 
                     <p>My goal is to make your product accessible for Portuguese speakers, improving user experience, customer engagement and business expansion.</p>
 
+                    <a href='https://drive.google.com/drive/folders/1VDdfCv6mRqpOgf4IXDOoT1TfUt4k7MDJ?usp=sharing'>Portfolio</a> || <a href='mailto:jaquezubieta@gmail.com'>E-mail</a>
+
                 </div>
             </div>
         </div>
