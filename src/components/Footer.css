@@ -12,7 +12,6 @@ body {
     width: 100%;
     padding-top: 20px;
     padding-bottom: 20px;
-    background-color: #424b54;
 }
 
 .footer-container {
@@ -20,7 +19,6 @@ body {
     flex-direction: row;
     align-items: center;
     width: 90%;
-    background-color: #424b54;
     justify-content: space-between;
     margin: auto;
 }
@@ -40,7 +38,7 @@ body {
 }
 
 .kaonashi-gif {
-    width: 100px;
+    width: 80px;
 }
 
 @media screen and (max-width: 1023px) {

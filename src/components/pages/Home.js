@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import Hero from '../Hero';
-import Experience from '../Experience';
-import Projects from '../Projects';
+// import Experience from '../Experience';
+// import Projects from '../Projects';
 
 
 
@@ -16,8 +16,8 @@ function Home() {
     return (
         <>
             <Hero />
-            <Experience/>
-            <Projects/>
+            {/* <Experience/> */}
+            {/* <Projects/> */}
 
         </>
     )

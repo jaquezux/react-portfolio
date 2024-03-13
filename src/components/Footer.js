@@ -7,7 +7,7 @@ function Footer() {
       <div className='footer-container'>
         <ul className='social-container'>
           <li>
-            <a href='https://www.linkedin.com/in/jaquelinebianco/' target="_blank" rel="noreferrer"><img className='social-image' alt='Linkedin icon' src='https://i.pinimg.com/564x/e3/7b/1e/e37b1e7d86494c58d4e9a218bc99e580.jpg' /></a>
+            <a href='https://www.linkedin.com/in/jaquelinebianco/' target="_blank" rel="noreferrer"><img className='social-image' alt='Linkedin icon' src='https://i.pinimg.com/564x/e3/7b/1e/e37b1e7d86494c58d4e9a218bc99e580.jpg'/></a>
             <a href='mailto:jaquezubieta@gmail.com' target="_blank" rel="noreferrer"><img className='social-image' alt='Gmail icon' src='https://i.pinimg.com/564x/ff/5d/d7/ff5dd70c2e5995e54901920130a59833.jpg' /></a>
             <a href='https://www.instagram.com/jaquezux/' target="_blank" rel="noreferrer"><img className='social-image' alt='Instagram icon' src='https://i.pinimg.com/564x/2d/c7/07/2dc707b13a944f8c6c0abfb6ca957788.jpg' /></a>
           </li>

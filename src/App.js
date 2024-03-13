@@ -4,7 +4,7 @@ import Home from './components/pages/Home';
 import ProjectsPage from './components/pages/ProjectsPage';
 import LeadGeneration from './components/pages/LeadGeneration';
 import InternalSearchEngine from './components/pages/InternalSearchEngine';
-import Footer from './components/Footer';
+// import Footer from './components/Footer';
 import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 import CarRental from './components/pages/CarRental';
 
@@ -19,7 +19,7 @@ function App() {
           <Route path='/projects/internal-search-engine-analysis' element={<InternalSearchEngine/>} />
           <Route path='/projects/car-rental' element={<CarRental/>} />
         </Routes>
-      <Footer/>
+      {/* <Footer/> */}
     </Router>
 
   );
